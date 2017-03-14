@@ -9,3 +9,10 @@ print(say)
 
 multiline = "Life is too short\nYou need python"
 print(multiline)
+
+
+print("%s" % (1+2))
+
+print("=" * 50)
+print("Hello")
+print("=" * 50)
