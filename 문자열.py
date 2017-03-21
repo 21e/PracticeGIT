@@ -16,3 +16,7 @@ print("%s" % (1+2))
 print("=" * 50)
 print("Hello")
 print("=" * 50)
+
+a = "20160315Sunny"
+print(a[-5:])
+print(a)
